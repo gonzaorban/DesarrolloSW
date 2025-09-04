@@ -1,3 +1,3 @@
-hola, borre todo
+#hola, borre todo
 
 print("Hola, mundo!")
